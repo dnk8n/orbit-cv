@@ -1,4 +1,5 @@
-*log
-*aux
+*.log
+*.aux
 auto/
-/orbit-cv.out
+*.out
+.idea
